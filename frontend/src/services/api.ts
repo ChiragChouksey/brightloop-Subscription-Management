@@ -1,4 +1,4 @@
-const BASE_URL = '/api';
+const BASE_URL = (import.meta as any).env?.VITE_API_URL || 'http://localhost:5050/api';
 
 export const getAuthToken = (): string | null => {
   return localStorage.getItem('brightloop_token');
