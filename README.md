@@ -1,9 +1,9 @@
+# brightloop-Subscription-Management
 # ⚡ Brightloop Subscription Management System
-> **Unified Enterprise SaaS Platform for Plans, Subscriptions, Recurring Invoicing & Payment Reconciliation**  
+> **Subscription Management System – A complete platform for managing customers, subscription plans, billing, invoices, payments and analytics.**  
 > *Developed for the Odoo Hackathon Challenge 2026*
 
 ---
-
 ## 🌟 Executive Overview
 **Brightloop Software** provides an end-to-end digital backbone that manages the complete lifecycle of a recurring revenue business: from defining multi-tiered products and customizable plans to issuing automatic invoices, verifying Razorpay payments, preventing contract churn, and streaming financial intelligence to leadership with **under 10ms database response latency** (far exceeding the hackathon's < 2.0s SLA requirement).
 
